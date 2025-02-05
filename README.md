@@ -1,3 +1,6 @@
+![Output (Web Calculator)](https://github.com/user-attachments/assets/1200c292-479e-4839-ac6a-f811035d636d)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
